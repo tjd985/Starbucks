@@ -98,6 +98,10 @@
   flex-basis: 0;
 }
 
+.login_card>.anchors>a:last-child{
+  border: none;
+}
+
 .login_card>.anchors>a:hover{
   text-decoration: underline;
 }
